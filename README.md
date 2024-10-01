@@ -17,3 +17,4 @@ int main() {
 ```
 
 ### zagolovok 3
+![picture](image.png)
